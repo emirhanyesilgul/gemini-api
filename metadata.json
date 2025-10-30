@@ -1,0 +1,5 @@
+{
+  "name": "Product Image Generator",
+  "description": "An application to generate images for product categories from a JSON file using the Gemini API and allow downloading the updated JSON.",
+  "requestFramePermissions": []
+}
